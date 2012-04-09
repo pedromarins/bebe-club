@@ -1,0 +1,206 @@
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,address,cite,code,del,dfn,em,img,ins,q,small,strong,sub,sup,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{border:0;margin:0;padding:0}article,aside,figure,figure img,figcaption,hgroup,footer,header,nav,section,video,object{display:block}a img{border:0}figure{position:relative}figure img{width:100%}
+
+body {
+    font-family: 'Signika Negative', sans-serif;
+}
+
+header {
+    background: url("../img/background.jpg");
+    height: 404px;
+}
+
+.content {
+    margin: 0 auto;
+    position: relative;
+    width: 980px;
+}
+
+.logo {
+    float: left;
+    margin: 106px 30px 106px 0;
+}
+
+.bebe {
+    background: url("../img/bebe.png") no-repeat 413px 0;
+    height: 404px;
+}
+
+h1 {
+    text-align:center;
+    font-size:40px;
+    color:#eaff00;
+    text-shadow: #000000 2px 2px 6px;
+    float: left;
+    margin: 60px 300px 0 0;
+}
+
+h1 span {
+    font-size:60px;
+    line-height: 50px;
+}
+
+h2 {
+    margin: 30px 0 0;
+    text-align:right;
+    font-size:33px;
+    float: left;
+    color:#FFFFFF;
+    text-shadow: #000000 2px 2px 6px;
+    padding: 0 0 0 15px;
+}
+
+.por-apenas {
+    font-size: 20px;
+    vertical-align: top;
+}
+
+.preco {
+    font-size:60px;
+    color:#eaff00;
+    vertical-align: top;
+    line-height: 50px;
+}
+
+.cada {
+    font-size: 16px;
+    vertical-align: top;
+    text-align: right;
+    line-height: 15px;
+}
+
+#assine {
+    background: #e7fc00; /* Old browsers */
+    background: -moz-linear-gradient(top, #e7fc00 0%, #a0c102 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e7fc00), color-stop(100%,#a0c102)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #e7fc00 0%,#a0c102 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #e7fc00 0%,#a0c102 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #e7fc00 0%,#a0c102 100%); /* IE10+ */
+    background: linear-gradient(top, #e7fc00 0%,#a0c102 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7fc00', endColorstr='#a0c102',GradientType=0 ); /* IE6-9 */
+    color: #515700;
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 0 10px -2px #000000;
+    text-shadow: 2px 2px 1px white;
+    text-decoration: none;
+    position: absolute;
+    width: 200px;
+    display: block;
+    padding: 10px 0;
+    top: 340px;
+    left: 50%;
+    margin: 0 0 0 -140px;
+    font-size: 41px;
+}
+
+#fancy {
+    background: url("../img/background-fralda.png");
+    display: inline-block;
+    padding: 25px;
+    width: 750px;
+}
+
+#fancy img {
+    float: left;
+}
+
+#fancy h3 {
+    color: #31BEA1;
+    font-size: 45px;
+    margin: 0 0 25px;
+}
+
+#fancy p {
+    margin: 0 0 10px;
+}
+
+#fancybox-content {
+    border: none;
+    width: 800px !important;
+}
+
+#fancybox-wrap {
+    width: 800px !important;
+}
+
+.detalhe-top {
+    position: absolute;
+    top: 366px;
+}
+
+.detalhe-bottom {
+     background: url("../img/footer.png");
+     height: 42px;
+     width: 100%;
+}
+
+.list {
+    background: url("../img/background-fralda.png");
+}
+
+ul {
+    list-style: none;
+    padding: 40px 0;
+}
+
+.social {
+    border-bottom: 2px dashed #444444;
+    border-top: 2px dashed #444444;
+    float: left;
+    padding: 20px 0;
+    margin: 20px 0;
+}
+
+li {
+    display: inline-block;
+    margin: 0 43px;
+    text-align: center;
+    width: 200px;
+}
+
+.social li {
+    height: 80px;
+    margin: 0 10px;
+    width: 80px;
+}
+
+li p {
+    color: #666666;
+    margin: 15px 20px 0;
+}
+
+.centered {
+    text-align: center;
+}
+
+footer {
+    background: url("../img/background-dark.jpg");
+    text-align: center;
+    padding: 0 0 50px;
+}
+
+footer p {
+    color:#FFFFFF;
+    font-size:33px;
+    text-shadow: #000000 2px 2px 6px;
+    margin: 50px 0 0;
+}
+
+footer a {
+    font-size:40px;
+    color:#eaff00;
+    text-shadow: #000000 2px 2px 6px;
+    text-decoration: none;
+}
+
+#mc_embed_signup {
+
+}
+
+#mc_embed_signup label {
+    
+}
+
+#mc_embed_signup {
+    
+}
